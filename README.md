@@ -16,7 +16,7 @@ The Google Authentication codes are standardized message authentication codes ca
 #### Building
 The git repository contains submodules. Clone this repo then setup the submodules with:
 ```
-$ git clone https://github.com/arcanericky/ga-cmd.git
+$ git clone https://github.com/liues1992/ga-cmd.git
 $ git submodule init
 $ git submodule update
 ```
